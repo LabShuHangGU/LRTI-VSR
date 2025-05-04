@@ -6,4 +6,4 @@ code is coming soon...
 
 [Small Clips, Big Gains: Learning Long-Range Refocused Temporal Information for Video Super-Resolution]()  
 
-[Xingyu Zhou](https://scholar.google.com/citations?user=dgO3CyMAAAAJ), [Wei Long](), [Jingbo Lu](), [Shiyin Jiang](), [Weiyi You](https://scholar.google.com/citations?user=q4uALoAAAAAJ), [Haifeng Wu](), [Shuhang Gu](https://scholar.google.com/citations?user=-kSTt40AAAAJ)
+[Xingyu Zhou](https://scholar.google.com/citations?user=dgO3CyMAAAAJ), [Wei Long](https://scholar.google.com/citations?user=CsVTBJoAAAAJ&hl=zh-CN), [Jingbo Lu](), [Shiyin Jiang](), [Weiyi You](https://scholar.google.com/citations?user=q4uALoAAAAAJ), [Haifeng Wu](https://scholar.google.com/citations?hl=zh-CN&user=rvVphXoAAAAJ), [Shuhang Gu](https://scholar.google.com/citations?user=-kSTt40AAAAJ)
