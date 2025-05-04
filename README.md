@@ -1,1 +1,9 @@
-# LRTI-VSR
+# Small Clips, Big Gains: Learning Long-Range Refocused Temporal Information for Video Super-Resolution (LRTI-VSR)
+code is coming soon...
+> Video super-resolution (VSR) can achieve better performance compared to single image super-resolution by additionally leveraging temporal information. In particular, the recurrent-based VSR model exploits long-range temporal information during inference and achieves superior detail restoration. However, effectively learning these long-term dependencies within long videos remains a key challenge. To address this, we propose LRTI-VSR, a novel training framework for recurrent VSR that efficiently leverages Long-Range Refocused Temporal Information. Our framework includes a tailored training strategy that utilizes temporal propagation features from long video clips while training on shorter video clips. Additionally, we introduce a refocused intra\&inter-frame transformer block which allows the VSR model to selectively prioritize useful temporal information through its attention module while further improving inter-frame information utilization in the FFN module. We evaluate LRTI-VSR on both CNN and transformer-based VSR architectures, conducting extensive ablation studies to validate the contribution of each component. Experiments on long-video test sets demonstrate that LRTI-VSR achieves state-of-the-art performance while maintaining training and computational efficiency.
+
+---
+
+[Small Clips, Big Gains: Learning Long-Range Refocused Temporal Information for Video Super-Resolution]()  
+
+[Xingyu Zhou](https://scholar.google.com/citations?user=dgO3CyMAAAAJ), [Wei Long](), [Jingbo Lu](), [Shiyin Jiang](), [Weiyi You](https://scholar.google.com/citations?user=q4uALoAAAAAJ), [Haifeng Wu](), [Shuhang Gu](https://scholar.google.com/citations?user=-kSTt40AAAAJ)
